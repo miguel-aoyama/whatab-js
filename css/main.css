@@ -1,0 +1,23 @@
+@charset "UTF-8"
+
+body{
+  margin:0;
+  padding:0;
+}
+th{
+  margin:5px;
+}
+table{
+  width:170px;
+  margin:0 auto;
+}
+p{
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 12px;
+  margin: 5px auto;
+}
+.answer{
+  font-size:15px;
+  text-transform: none;
+}
